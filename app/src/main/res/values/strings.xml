@@ -22,8 +22,10 @@
     <string name="aquarius">Aquarius</string>
     <string name="pisces">Pisces</string>
 
+    <!--Share-->
     <string name="share">Share</string>
 
+    <!--Palmistry-->
     <string name="luck_0">"A new opportunity will bring unexpected success your way."</string>
     <string name="luck_1">"You'll meet someone who will change your life for the better."</string>
     <string name="luck_2">"An exciting journey awaits you in the near future."</string>
