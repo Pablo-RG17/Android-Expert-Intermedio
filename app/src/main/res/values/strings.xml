@@ -25,6 +25,9 @@
     <!--Share-->
     <string name="share">Share</string>
 
+    <!--Request Permission-->
+    <string name="permission">Please accept the terms so you can enjoy a magical experience.</string>
+
     <!--Palmistry-->
     <string name="luck_0">"A new opportunity will bring unexpected success your way."</string>
     <string name="luck_1">"You'll meet someone who will change your life for the better."</string>
